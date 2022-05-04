@@ -15,8 +15,8 @@
 //#define CAMERA_MODEL_M5STACK_PSRAM
 #define CAMERA_MODEL_AI_THINKER
 
-const char* ssid = "SUPERONLINE_WiFi_3278";   //Enter SSID WIFI Name
-const char* password = "J9keG43xcpq9";   //Enter WIFI Password
+const char* ssid = "********";   //Enter SSID WIFI Name
+const char* password = "********";   //Enter WIFI Password
 
 
 #if defined(CAMERA_MODEL_WROVER_KIT)
